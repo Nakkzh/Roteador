@@ -3,7 +3,7 @@
 ## Archer AX6000
 
 <p align="center">
-  <img src="(roteador.jpg)">
+  <img src="roteador.jpg" alt="Descrição da Imagem">
 </p>
 
 ---
